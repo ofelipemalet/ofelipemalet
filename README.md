@@ -1,6 +1,7 @@
 # Felipe Malet
 
-🚀 Senior Software Engineer | 🇧🇷 Brazil
+🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
@@ -12,11 +13,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/evoluatech">
-    <img src="https://img.shields.io/badge/GitHub-Evolua Tech-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ofelipemalet">
+    <img src="https://img.shields.io/badge/GitHub-Felipe Malet-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/evoluatechbr/">
-    <img src="https://img.shields.io/badge/Instagram-@evolua tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/ofelipemlt/">
+    <img src="https://img.shields.io/badge/Instagram-@ofelipemlt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -45,7 +46,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
+ 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
